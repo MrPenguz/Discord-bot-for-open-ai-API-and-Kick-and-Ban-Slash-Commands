@@ -1,0 +1,42 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 24.3M  100 24.3M    0     0  70.7M      0 --:--:-- --:--:-- --:--:-- 70.7M
+npm WARN deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm WARN deprecated osenv@0.1.5: This package is no longer supported.
+npm WARN deprecated are-we-there-yet@1.1.7: This package is no longer supported.
+npm WARN deprecated rimraf@2.7.1: Rimraf versions prior to v4 are no longer supported
+npm WARN deprecated npmlog@4.1.2: This package is no longer supported.
+npm WARN deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm WARN deprecated gauge@2.7.4: This package is no longer supported.
+npm WARN deprecated node-pre-gyp@0.17.0: Please upgrade to @mapbox/node-pre-gyp: the non-scoped node-pre-gyp package is deprecated and only the @mapbox scoped package will recieve updates in the future
+
+added 67 packages in 3s
+
+3 packages are looking for funding
+  run `npm fund` for details
+npm notice 
+npm notice New minor version of npm available! 10.2.4 -> 10.8.2
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v10.8.2>
+npm notice Run `npm install -g npm@10.8.2` to update!
+npm notice 
+
+up to date, audited 50 packages in 1s
+
+9 packages are looking for funding
+  run `npm fund` for details
+
+1 high severity vulnerability
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+The Bot Is Online
+There was an error: DiscordAPIError[10004]: Unknown Guild
+Callux Prime#9639 is online and ready.
+there was an error in timming Out  Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'pretty-ms' imported from /home/minecraft/multicraft/servers/server780309/commands/moderation/timeout.js
+there was an error in timming Out  Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'pretty-ms' imported from /home/minecraft/multicraft/servers/server780309/commands/moderation/timeout.js
+there was an error in timming Out  Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'pretty-ms' imported from /home/minecraft/multicraft/servers/server780309/commands/moderation/timeout.js
+there was an error in timming Out  Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'pretty-ms' imported from /home/minecraft/multicraft/servers/server780309/commands/moderation/timeout.js
+there was an error in timming Out  Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'pretty-ms' imported from /home/minecraft/multicraft/servers/server780309/commands/moderation/timeout.js
+there was an error in timming Out  Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'pretty-ms' imported from /home/minecraft/multicraft/servers/server780309/commands/moderation/timeout.js
